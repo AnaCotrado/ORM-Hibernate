@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Datos/D_Producto.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmUsuario.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmUsuarioMod.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Negocio/N_KardexProducto.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmProducto.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Datos/D_Kardexproducto.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Negocio/N_Administrador.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmSucursalMod.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/META-INF/persistence.xml</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Datos/D_Usuario.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmLogin.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Datos/D_Sucursal.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmSucursal.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmAdministrador.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Datos/D_Categoria.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmAdministradorIns.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmEmpleado.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmCategoria.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmAdministradorMod.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmProductoMod.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Negocio/N_Sucursal.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmEmpleadoMod.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmCategoriaMod.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmUsuarioIns.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/META-INF/hibernate.cfg.xml</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Negocio/N_Producto.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmSucursalIns.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Datos/D_Administrador.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Negocio/N_Categoria.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Negocio/N_Empleado.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Negocio/N_Usuario.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmEmpleadoIns.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmCategoriaIns.java</file>
+            <file>file:/D:/UPT/2021-I/Calidad%20y%20Pruebas%20de%20Software/Unidad%201/ORM/Hibernate/src/Presentacion/FrmKardexMenu.java</file>
+        </group>
+    </open-files>
+</project-private>

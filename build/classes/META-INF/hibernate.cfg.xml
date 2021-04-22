@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/db_ferreteria?zeroDateTimeBehavior=CONVERT_TO_NULL</property>
+        <property name="connection.username">Ana</property>
+        <property name="connection.password"></property>
+        <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
+        <property name="hibernate.show_sql">true</property>
+
+        <mapping class="Datos.D_Administrador"/>
+        <mapping class="Datos.D_Categoria"/>
+        <mapping class="Datos.D_Empleado"/>
+        <mapping class="Datos.D_Kardexproducto"/>
+        <mapping class="Datos.D_Producto"/>
+        <mapping class="Datos.D_Sucursal"/>
+        <mapping class="Datos.D_Usuario"/>
+    </session-factory>
+</hibernate-configuration>
+
